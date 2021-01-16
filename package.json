@@ -1,13 +1,30 @@
 {
     "name": "valary",
-    "displayName": "valary",
-    "description": "",
+    "displayName": "Valary",
+    "description": "An immersive Dark Theme for VSCode.",
     "version": "0.0.1",
+    "author": "Fahad Ashraf Chaudhry",
+    "publisher": "fahadachaudhry",
     "engines": {
         "vscode": "^1.52.0"
     },
     "categories": [
         "Themes"
+    ],
+    "galleryBanner": {
+      "color": "#14161c",
+      "theme": "dark"
+    },
+    "icon": "images/icon.png",
+    "keywords": [
+      "Valary",
+      "Cobalt",
+      "Dark Theme",
+      "Night Mode",
+      "Dark Flat Theme",
+      "terminal", 
+      "color-theme",
+      "VSCode Power User"
     ],
     "contributes": {
         "themes": [

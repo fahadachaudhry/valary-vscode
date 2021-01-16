@@ -1,11 +1,11 @@
 {
-  "name": "Generated Theme",
+  "name": "Valary",
   "tokenColors": [
     {
       "name": "Global settings",
       "settings": {
         "background": "#14161c",
-        "foreground": "#5d7075"
+        "foreground": "#5d7075",
       }
     },
     {
