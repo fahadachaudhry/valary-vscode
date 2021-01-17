@@ -78,76 +78,15 @@
 
 Valary is the perfect blend of dark and color! This makes it awesome to work with especially in dark environment. But don't worry, even in day light, these colors are poppin' enough to help you visualize and identify each keyword with ease!
 
-<table>
-  <tr>
-    <th>
-      COLORS
-    </th>
-    <th>
-      HEX CODE
-    </th>
-  </tr>
-    <tr>
-      <td>
-        PINK  
-      </td>
-      <td>
-        <div style="padding: 4px; background-color: #DA6771; border-radius: 100%; height: 10px; width: 10px; display: inline-block;"></div>
-        &nbsp;
-        #DA6771
-      </td>
-    </tr>
-    <tr>
-      <td>
-        YELLOW
-      </td>
-      <td>
-        <div style="padding: 4px; background-color: #F2C230; border-radius: 100%; height: 10px; width: 10px; display: inline-block;"></div>
-        &nbsp;
-        #F2C230
-      </td>
-    </tr>
-    <tr>
-      <td>
-        GREY
-      </td>
-      <td>
-        <div style="padding: 4px; background-color: #a6a4a4; border-radius: 100%; height: 10px; width: 10px; display: inline-block;"></div>
-        &nbsp;
-        #a6a4a4
-      </td>
-    </tr>
-    <tr>
-      <td>
-        RED
-      </td>
-      <td>
-        <div style="padding: 4px; background-color: #BD3F47; border-radius: 100%; height: 10px; width: 10px; display: inline-block;"></div>
-        &nbsp;
-        #BD3F47
-      </td>
-    </tr>
-    <tr>
-      <td>
-        GREEN
-      </td>
-      <td>
-        <div style="padding: 4px; background-color: #6FF08D; border-radius: 100%; height: 10px; width: 10px; display: inline-block;"></div>
-        &nbsp;
-        #6FF08D
-      </td>
-    </tr>
-    <tr>
-      <td>
-        BLUE
-      </td>
-      <td>
-        <div style="padding: 4px; background-color: #63AEBF; border-radius: 100%; height: 10px; width: 10px; display: inline-block;"></div>
-        &nbsp;
-        #63AEBF
-      </td>
-    </tr>
-</table>
+|      USAGE        |                                HEX CODES                                 |
+| ------------------|------------------------------------------------------------------------- |
+| PINK              | ![#DA6771](https://placehold.it/15/DA6771/000000?text=%20) `#DA6771`     |
+| YELLOW            | ![#F2C230](https://placehold.it/15/F2C230/000000?text=%20) `#F2C230`     |
+| GREY              | ![#a6a4a4](https://placehold.it/15/a6a4a4/000000?text=%20) `#a6a4a4`     |
+| RED               | ![#BD3F47](https://placehold.it/15/BD3F47/000000?text=%20) `#BD3F47`     |
+| GREEN             | ![#6FF08D](https://placehold.it/15/6FF08D/000000?text=%20) `#6FF08D`     |
+| BLUE              | ![#63AEBF](https://placehold.it/15/63AEBF/000000?text=%20) `#63AEBF`     |
+
 
 <br/>
 
