@@ -2,7 +2,7 @@
     "name": "valary",
     "displayName": "Valary",
     "description": "An immersive Dark Theme for VSCode.",
-    "version": "0.0.2",
+    "version": "1.0.0",
     "author": "Fahad Ashraf Chaudhry",
     "publisher": "fahadachaudhry",
     "engines": {
@@ -32,6 +32,11 @@
                 "label": "Valary",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Valary-color-theme.json"
+            },
+            {
+                "label": "Valary Midnight",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Valary-color-theme-dark.json"
             }
         ]
     },

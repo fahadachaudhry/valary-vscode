@@ -54,16 +54,24 @@
 
 <br/>
 
-![Alt text](/images/valary.gif?raw=true "Screenshot")
 <div align="center">
-  Made with ❤️ just for your eyes.
+
+## (VALARY)
+![Alt text](/images/valary.gif?raw=true "Screenshot")
+
+<br/>
+<br/>
+
+## (VALARY MIDNIGHT)
+![Alt text](/images/valary-midnight.gif?raw=true "Screenshot")
+
 </div>
 
 <br/>
 
 <div align="left">
 
-### Installation
+### Easy Installation
 
 1. Open the extensions sidebar in Visual Studio Code
 2. Search for Valary
@@ -89,8 +97,11 @@ Valary is the perfect blend of dark and color! This makes it awesome to work wit
 
 
 <br/>
+<br/>
 
 <div align="center">
+  Made with ❤️ just for your eyes.
+  <br/>
   Stay Awesome! Please rate us five-stars. 
   <br/>
   ⭐⭐⭐⭐⭐
