@@ -2,7 +2,7 @@
 
   # Valary | Theme for VS Vode
 
-  <table width='100%'>
+  <table width='100%' >
       <tr width="100%">
           <td align='left'>
             <strong>An <em>immersive</em> Dark Theme for VSCode. </strong>
@@ -71,7 +71,7 @@
 
 <br/>
 
-<table width="100%" style="border: none;">
+<table style="border: none; width: 100%;">
   <tr style='vertical-align: top;'>
     <td align='left'>
       Stay Awesome! Please rate us five-stars. 
