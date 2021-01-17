@@ -55,6 +55,9 @@
 <br/>
 
 ![Alt text](/images/valary.gif?raw=true "Screenshot")
+<div align="center">
+  Made with ❤️ just for your eyes.
+</div>
 
 <br/>
 
@@ -71,15 +74,8 @@
 
 <br/>
 
-<table style="border: none; width: 100%;">
-  <tr style='vertical-align: top;'>
-    <td align='left'>
-      Stay Awesome! Please rate us five-stars. 
-      <br/>
-      ⭐⭐⭐⭐⭐
-    </td>
-    <td align='right'>
-       Made with ❤️ just for your eyes.
-    </td>
-  </tr>
-</table>
+<div align="center">
+  Stay Awesome! Please rate us five-stars. 
+  <br/>
+  ⭐⭐⭐⭐⭐
+</div>
