@@ -71,7 +71,7 @@
 
 <br/>
 
-<table width="100%">
+<table width="100%" style="border: none;">
   <tr style='vertical-align: top;'>
     <td align='left'>
       Stay Awesome! Please rate us five-stars. 
