@@ -86,14 +86,15 @@
 
 Valary is the perfect blend of dark and color! This makes it awesome to work with especially in dark environment. But don't worry, even in day light, these colors are poppin' enough to help you visualize and identify each keyword with ease!
 
-|      USAGE        |                                HEX CODES                                 |
-| ------------------|------------------------------------------------------------------------- |
-| PINK              | ![#DA6771](https://placehold.it/15/DA6771/000000?text=%20) `#DA6771`     |
-| YELLOW            | ![#F2C230](https://placehold.it/15/F2C230/000000?text=%20) `#F2C230`     |
-| GREY              | ![#a6a4a4](https://placehold.it/15/a6a4a4/000000?text=%20) `#a6a4a4`     |
-| RED               | ![#BD3F47](https://placehold.it/15/BD3F47/000000?text=%20) `#BD3F47`     |
-| GREEN             | ![#6FF08D](https://placehold.it/15/6FF08D/000000?text=%20) `#6FF08D`     |
-| BLUE              | ![#63AEBF](https://placehold.it/15/63AEBF/000000?text=%20) `#63AEBF`     |
+|      USAGE   |                                HEX CODES                                 |
+| -------------|------------------------------------------------------------------------- |
+| PINK         | ![#f03c15](https://via.placeholder.com/15/DA6771/000000?text=+) `#DA6771`|
+| YELLOW       | ![#f03c15](https://via.placeholder.com/15/F2C230/000000?text=+) `#F2C230`|
+| GREY         | ![#f03c15](https://via.placeholder.com/15/a6a4a4/000000?text=+) `#a6a4a4`|
+| RED          | ![#f03c15](https://via.placeholder.com/15/BD3F47/000000?text=+) `#BD3F47`|
+| GREEN        | ![#f03c15](https://via.placeholder.com/15/6FF08D/000000?text=+) `#6FF08D`|
+| BLUE         | ![#f03c15](https://via.placeholder.com/15/63AEBF/000000?text=+) `#63AEBF`|
+
 
 
 <br/>
